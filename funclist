@@ -1,0 +1,19 @@
+___aldiv: CODE, 3928 0 168
+i1___ftadd: CODE, 775 0 324
+i1___fttol: CODE, 3596 0 166
+___ftpack: CODE, 3471 0 125
+i1___lwtoft: CODE, 3072 0 25
+_main: CODE, 19 0 432
+___lwtoft: CODE, 3097 0 25
+___ftadd: CODE, 451 0 324
+i1___ftmul: CODE, 1335 0 236
+i1___ftpack: CODE, 3348 0 123
+_isr: CODE, 1571 0 201
+___attoft: CODE, 3122 0 46
+___lwmod: CODE, 3168 0 70
+___ftmul: CODE, 1099 0 236
+___altoft: CODE, 1970 0 75
+___fttol: CODE, 3762 0 166
+___ftge: CODE, 3238 0 110
+___ftdiv: CODE, 1772 0 198
+Total: 3050
